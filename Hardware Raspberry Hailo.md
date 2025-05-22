@@ -15,4 +15,5 @@
 | Standaard USB-camera |     |     |     |     |
 | **Totaal (afhankelijk van camera ongeveer)** |     | **€242,41** |     |     |
 
-&nbsp;
+## Tutorial
+Bij deze set is gebruik gemaakt van de volgende tutorial: https://github.com/BetaUtopia/Hailo8l met bijbehorende [youtube](https://www.youtube.com/watch?v=zXASGrzedck) instructies
