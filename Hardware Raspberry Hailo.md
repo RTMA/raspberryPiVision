@@ -17,3 +17,8 @@
 
 ## Tutorial
 Bij deze set is gebruik gemaakt van de volgende tutorial: https://github.com/BetaUtopia/Hailo8l met bijbehorende [youtube](https://www.youtube.com/watch?v=zXASGrzedck) instructies
+
+
+## Labellen
+Interessante annotatietool om te onderzoeken
+[Voxel Fifty One] (https://docs.voxel51.com/) 
