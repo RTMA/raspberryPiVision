@@ -21,4 +21,4 @@ Bij deze set is gebruik gemaakt van de volgende tutorial: https://github.com/Bet
 
 ## Labellen
 Interessante annotatietool om te onderzoeken
-[Voxel Fifty One] (https://docs.voxel51.com/) 
+[Voxel Fifty One](https://docs.voxel51.com/) 
